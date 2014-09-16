@@ -1,6 +1,5 @@
-procedures
+procedures to look for in a statistics environment
 ---
-These procedures should be available in a statistical environment.
 
 ##loading data into the system
 
